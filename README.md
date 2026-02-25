@@ -1,1 +1,1 @@
-Construi un dashbord en Tableau segun las especificaciones que el proyecto de Triple Ten requeria. El objetivo del proyecto fue reunir los requisitos tecnicos para el contenido para despues poder elaborar el dashboard.
+Proyecto de Triple Ten que consta de la creacion de in dashboard en Tableau.
